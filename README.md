@@ -17,7 +17,7 @@ DIRECTORY           | DESCRIPTION
 --------------------|----------------------
 `.`                 | Project files such as README
 `./data/`           | Data files
-`./reports/`        | Reports and other output are located in
+`./reports/`        | Reports and other output
 
 ## Data Sources
 To build a predictive model, we are principaly examining data from five sources.
