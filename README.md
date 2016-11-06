@@ -30,11 +30,10 @@ To build a predictive model, we are principaly examining data from five sources.
 
 ## Data Exploration
 See the following 3 ipython notebooks on GitHub for our preliminary data exploration:
-GitHub URL: https://github.com/angelok1/cs109project 
-Food inspections dataset: Food_Inspections.ipynb
-Business licenses, crimes and sanitation code complaints datasets: business-crime-sanitation.ipynb
-Climate dataset: Climate.ipynb
+GitHub URL: https://github.com/angelok1/cs109project <br>
+Food inspections dataset: [Food_Inspections.ipynb](https://github.com/angelok1/cs109project/blob/master/Food_Inspections.ipynb) <br>
+Business licenses, crimes and sanitation code complaints datasets: [business-crime-sanitation.ipynb](https://github.com/angelok1/cs109project/blob/master/business-crime-sanitation.ipynb) <br>
+Climate dataset: [Climate.ipynb](https://github.com/angelok1/cs109project/blob/master/Climate.ipynb) <br>
 
 ## Current Summary of Findings
 Inspection type, past failure and risk category changes the probability of failing a food inspection. Failure rates also tend to increase in the mid-year months corresponding to summer and early fall when temperature is higher. There is also variation in the distribution of crimes and sanitation code complaints by location/district which may be correlated with failed outcome.
-
