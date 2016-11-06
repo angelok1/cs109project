@@ -1,0 +1,29 @@
+# Predicting Food Inspection Outcomes in Chicago
+**CS109A Final Project**<br>
+**Predicting Food Inspection Outcomes in Chicago**<br>
+Calvin J Chiew, Angelo Kastroulis, Tim Hagmann<br>
+
+## Original Analysis and Reports
+In an effort to reduce the public’s exposure to foodborne illness the [City of Chicago](https://github.com/Chicago) partnered with Allstate’s Quantitative Research & Analytics department to develop built an algorithm to [predict likely health code violations](http://chicago.github.io/food-inspections-evaluation/) for restaurants based on publicly available data. They turned this into an open source project, freely available on [github](https://github.com/Chicago/food-inspections-evaluation), so other cities could implement this model.
+
+## Data Exploration
+Please see the following 3 ipython notebooks on GitHub for our preliminary data exploration:
+GitHub URL: https://github.com/angelok1/cs109project 
+Food inspections dataset: Food_Inspections.ipynb
+Business licenses, crimes and sanitation code complaints datasets: business-crime-sanitation.ipynb
+Climate dataset: Climate.ipynb
+
+## File Layout
+
+The following directory structure is used:
+
+DIRECTORY           | DESCRIPTION
+--------------------|----------------------
+`.`                 | Project files such as README
+`./data/`           | Data files created by scripts in `./CODE/`, or static
+`./reports/`        | Reports and other output are located in 
+
+
+## Summary of Findings
+Inspection type, past failure and risk category changes the probability of failing a food inspection. Failure rates also tend to increase in the mid-year months corresponding to summer and early fall when temperature is higher. There is also variation in the distribution of crimes and sanitation code complaints by location/district which may be correlated with failed outcome.
+
