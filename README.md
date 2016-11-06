@@ -29,8 +29,7 @@ To build a predictive model, we are principaly examining data from five sources.
 - Crime data in chicago
 
 ## Data Exploration
-See the following 3 ipython notebooks on GitHub for our preliminary data exploration:
-GitHub URL: https://github.com/angelok1/cs109project <br>
+See the following 3 ipython notebooks for our preliminary data exploration: <br>
 Food inspections dataset: [Food_Inspections.ipynb](https://github.com/angelok1/cs109project/blob/master/Food_Inspections.ipynb) <br>
 Business licenses, crimes and sanitation code complaints datasets: [business-crime-sanitation.ipynb](https://github.com/angelok1/cs109project/blob/master/business-crime-sanitation.ipynb) <br>
 Climate dataset: [Climate.ipynb](https://github.com/angelok1/cs109project/blob/master/Climate.ipynb) <br>
