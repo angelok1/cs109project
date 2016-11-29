@@ -18,8 +18,5 @@ DIRECTORY           | DESCRIPTION
 `./data/`           | Raw data files
 `./reports/`        | Reports and other outputs
 
-## Data Exploration
-Please see the following 3 ipython notebooks for our preliminary data exploration: <br>
-Food inspections dataset: [Food_Inspections.ipynb](https://github.com/angelok1/cs109project/blob/master/Food_Inspections.ipynb) <br>
-Business licenses, crimes and sanitation code complaints datasets: [business-crime-sanitation.ipynb](https://github.com/angelok1/cs109project/blob/master/business-crime-sanitation.ipynb) <br>
-Climate dataset: [Climate.ipynb](https://github.com/angelok1/cs109project/blob/master/Climate.ipynb) <br>
+## Preliminary Modelling
+Please see [modeling.ipynb](https://github.com/angelok1/cs109project/blob/master/modeling.ipynb) for our baseline and preliminary models for Milestone #4/5.
