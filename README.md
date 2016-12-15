@@ -18,5 +18,5 @@ DIRECTORY           | DESCRIPTION
 `./data/`           | Raw data files
 `./reports/`        | Reports and other outputs
 
-## Preliminary Modelling
-Please see [modeling.ipynb](https://github.com/angelok1/cs109project/blob/master/modeling.ipynb) for our baseline and preliminary models for Milestone #4/5.
+## Website
+Please view our website [here](https://medium.com/inspections-2).
